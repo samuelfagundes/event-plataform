@@ -2,6 +2,12 @@
 
 Plataforma de eventos online
 
+## Tecnologias utilizadas
+
+* Vite
+* Tailwindcss
+* Typescript
+
 ## Vercel
 
 Você pode ver o projeto atráves [desse link](https://event-plataform-weld-three.vercel.app/)
